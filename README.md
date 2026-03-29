@@ -40,17 +40,18 @@ The goal is simple: reduce reply friction without taking control away from the u
 
 ## Product Preview
 
-### Banner
-![ReplyPilot Banner](./docs/banner.png)
 
 ### Extension Popup
 ![ReplyPilot Popup](./docs/popup-preview.png)
 
+
 ### LinkedIn Reply Panel
 ![ReplyPilot Reply Panel](./docs/reply-panel.png)
 
+
 ### Demo / Workflow
 ![ReplyPilot Demo](./docs/reply-generation.gif)
+
 
 ## Architecture
 
