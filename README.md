@@ -299,10 +299,10 @@ ReplyPilot is currently in `MVP` stage with a working end-to-end LinkedIn reply 
 
 ## Author
 
-Built by `Your Name`
+Built by `Atharv Navatre`
 
-- LinkedIn: `https://www.linkedin.com/in/your-linkedin/`
-- GitHub: `https://github.com/your-github-username`
+- LinkedIn: `(https://www.linkedin.com/in/atharv-navatre-1201662b1/)/`
+- GitHub: `(https://github.com/Atharv-navatre)`
 
 ## License
 
