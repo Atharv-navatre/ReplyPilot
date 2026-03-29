@@ -2,7 +2,6 @@
 
 > AI-powered Chrome extension for generating smart, context-aware LinkedIn replies with human review before send.
 
-![ReplyPilot Banner](./docs/banner.png)
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
